@@ -1,4 +1,4 @@
-# TransPer
+# Description
 An explainability framework for highlighting decision-relevant input data using layerwise relevance propagation.
 
 # TransPer
